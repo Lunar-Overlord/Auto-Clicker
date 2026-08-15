@@ -5,3 +5,6 @@ E também uma opção de gravar/reproduzir (famoso macro).
 
 
 Link para download: https://github.com/Lunar-Overlord/Auto-Clicker/releases
+
+
+Se você não tiver python instalado o auto clicker não funcionará, baixe aqui: https://www.python.org/ftp/python/pymanager/python-manager-26.3.msix
